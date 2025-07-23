@@ -5,4 +5,4 @@ This is demo for Git &amp; Github class.
 Shradha Khapra
 
 # Student
-Salman Saudagar
+Salman B Saudagar
